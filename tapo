@@ -1,47 +1,144 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment</title>
-</head>
-<body>
-    <h1 style="font-family: georgia,garamond,serif;">Fruits</h1>
-    <ul>
-        <li>Apple</li>
-        <li>Apricot</li>
-        <li>Avocado</li>
-        <li>Banana</li>
-        <li>Cape Gooseberries</li>
-    </ul>
+<th align="left">phone</th>
+            <th align="left">grade</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>mahid sk</td>
+            <td> core java (J2SE)</td>
+            <td> diamond harbour</td>
+            <td>mahid@gmail.com</td>
+            <td>+9198723462</td>
+            <td>A+</td>
+        </tr>
+        <tr bgcolor="green" >
+            <td>2</td>
+            <td>adib sk</td>
+            <td> advance java (J2EE)</td>
+            <td> diamond harbour</td>
+            <td>mahid@gmail.com</td>
+            <td>+919872394</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>wahid sk</td>
+            <td> python</td>
+            <td> diamond harbour</td>
+            <td>mahid@gmail.com</td>
+            <td>+919948723462</td>
+            <td>A+</td>
+        </tr>
+        <tr bgcolor="green">
+            <td>4</td>
+            <td>jyoti</td>
+            <td> Django</td>
+            <td> diamond harbour</td>
+            <td>jyoti@gmail.com</td>
+            <td>+9156723462</td>
+            <td>A+</td>
+        </tr>
+    </table>
     <hr>
-    <h1>Flowers</h1>
-    <ul>
-        <li>Amber</li>
-        <li>Ambrosia</li>
-        <li>Azalea</li>
-        <li>Belladonna</li>
-        <li>Blossom</li>
-    </ul>
+    <h1 align="center">Student Details -3</h1>
     <hr>
-    <h1>Heading:</h1>
-    <ul>
-      <li>Sub heading-3</li>
-      <li>Sub heading-2</li>
-      <ul>
-        <li>Nested heading-1</li>
-        <ul>
-          <li>heading-1</li>
-          <li>heading-2</li>
-        </ul>
-        <li>Nested heading-1</li>
-        <li>Nested heading-2</li>
-      </ul>
-      <li>Sub heading-3</li>
-      <li>Sub heading-4</li>
-      <li>Sub heading-5</li>
-    </ul>
-
+</table>
+<table align="center" border="1" width="90%"  cellspacing ="5%" cellpadding="10">
+    <tr bgcolor="blue">
+        <th align="left">roll no. </th>
+        <th align="left">name</th>
+        <th align="left">course</th>
+        <th align="left">address</th>
+        <th align="left">email</th>
+        <th align="left">phone</th>
+        <th align="left">grade</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>mahid sk</td>
+        <td> core java (J2SE)</td>
+        <td> diamond harbour</td>
+        <td>mahid@gmail.com</td>
+        <td>+9198723462</td>
+        <td>A+</td>
+    </tr>
+    <tr bgcolor="green" >
+        <td>2</td>
+        <td>adib sk</td>
+        <td> advance java (J2EE)</td>
+        <td> diamond harbour</td>
+        <td>mahid@gmail.com</td>
+        <td>+919872394</td>
+        <td>A+</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>wahid sk</td>
+        <td> python</td>
+        <td> diamond harbour</td>
+        <td>mahid@gmail.com</td>
+        <td>+919948723462</td>
+        <td>A+</td>
+    </tr>
+    <tr bgcolor="green">
+        <td>4</td>
+        <td>jyoti</td>
+        <td> Django</td>
+        <td> diamond harbour</td>
+        <td>jyoti@gmail.com</td>
+        <td>+9156723462</td>
+        <td>A+</td>
+    </tr>
+</table>
+<hr>
+    <h1 align="center">Student Details -4</h1>
+    <hr>
+<table align="center" width="90%"  bgcolor="yellow" cellspacing ="5%" cellpadding="10">
+    <tr bgcolor="orange">
+        <th align="left">roll no. </th>
+        <th align="left">name</th>
+        <th align="left">course</th>
+        <th align="left">address</th>
+        <th align="left">email</th>
+        <th align="left">phone</th>
+        <th align="left">grade</th>
+    </tr>
+    <tr bgcolor="yellow">
+        <td>1</td>
+        <td>mahid sk</td>
+        <td> core java (J2SE)</td>
+        <td> diamond harbour</td>
+        <td>mahid@gmail.com</td>
+        <td>+9198723462</td>
+        <td>A+</td>
+    </tr>
+    <tr bgcolor="green" >
+        <td>2</td>
+        <td>adib sk</td>
+        <td> advance java (J2EE)</td>
+        <td> diamond harbour</td>
+        <td>mahid@gmail.com</td>
+        <td>+919872394</td>
+        <td>A+</td>
+    </tr>
+    <tr bgcolor="yellow">
+        <td>3</td>
+        <td>wahid sk</td>
+        <td> python</td>
+        <td> diamond harbour</td>
+        <td>mahid@gmail.com</td>
+        <td>+919948723462</td>
+        <td>A+</td>
+    </trbgcolor>
+    <tr bgcolor="green">
+        <td>4</td>
+        <td>jyoti</td>
+        <td> Django</td>
+        <td> diamond harbour</td>
+        <td>jyoti@gmail.com</td>
+        <td>+9156723462</td>
+        <td>A+</td>
+    </tr>
+</table>
+<hr>
 </body>
 </html>
